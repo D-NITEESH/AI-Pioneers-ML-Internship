@@ -8,7 +8,7 @@ Each week's work lives in its own folder, containing the notebook and the submit
 
 - `week1` — Python for ML & Data Preprocessing: cleaning, missing value handling, encoding, scaling, and EDA on the Titanic dataset.
 - `week2` — Supervised Machine Learning Models: trained and compared Logistic Regression, Decision Tree, Random Forest, and KNN classifiers on the preprocessed Titanic dataset.
-
+- `week3` — Unsupervised learning project comparing K-Means and Hierarchical Clustering on the Iris dataset with PCA-based visualization and cluster evaluation.
 ## Author
 
 D Niteesh Kumar
